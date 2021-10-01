@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="Emergency  - Emergency Alert">d9475166d13a7410090bb84cf6507c4b</search_context_config>
+        <source display_value="Community Alerts">59471166bb3a7410f1a7b13f09b69aac</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2021-06-09 12:08:49</sys_created_on>
+        <sys_id>11475166223a741016971967172a024c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Alfa" source="x_snc_alfa">c89b1cc91ba13010cf89ea46624bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alfa">c89b1cc91ba13010cf89ea46624bcb8d</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_11475166223a741016971967172a024c</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2021-06-09 12:08:49</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

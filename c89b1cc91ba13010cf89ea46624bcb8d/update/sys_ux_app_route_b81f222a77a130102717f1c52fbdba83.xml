@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Alfa Config">bc1f222a1ba13010cf89ea46624bcb64</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Activity</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">301f222ab8a130103aedec5120268c83</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_activity</route_type>
+        <screen_type display_value="Activity">781f222a6ca1301094aea72f61f18483</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-27 20:15:54</sys_created_on>
+        <sys_id>b81f222a77a130102717f1c52fbdba83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="Alfa" source="x_snc_alfa">c89b1cc91ba13010cf89ea46624bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alfa">c89b1cc91ba13010cf89ea46624bcb8d</sys_scope>
+        <sys_update_name>sys_ux_app_route_b81f222a77a130102717f1c52fbdba83</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-27 20:15:54</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=b81f222a77a130102717f1c52fbdba83"/>
+</record_update>

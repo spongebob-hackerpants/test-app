@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="bravo">c744921f1b267010cf89ea46624bcbb9</category>
+        <columns/>
+        <condition/>
+        <configuration display_value="Alfa_menu_config">0b44921f1b267010cf89ea46624bcbb7</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>cj.karl@snc</sys_created_by>
+        <sys_created_on>2021-09-17 19:17:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0344921f1b267010cf89ea46624bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Alfa" source="x_snc_alfa">c89b1cc91ba13010cf89ea46624bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Alfa">c89b1cc91ba13010cf89ea46624bcb8d</sys_scope>
+        <sys_update_name>sys_ux_list_0344921f1b267010cf89ea46624bcbbc</sys_update_name>
+        <sys_updated_by>cj.karl@snc</sys_updated_by>
+        <sys_updated_on>2021-09-17 19:17:04</sys_updated_on>
+        <table>x_snc_alfa_bravo</table>
+        <title>All</title>
+    </sys_ux_list>
+</record_update>
